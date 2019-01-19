@@ -33,4 +33,5 @@ def printer (array)
 
   array2.each do |string|
     puts string
-end
+  end
+endx
