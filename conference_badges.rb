@@ -18,4 +18,6 @@ def assign_rooms (array)
 
   array.each do |name|
     new_array.push("Hello #{name}! You'll be assigned to room #{index}!")
+  end
+  new_array
 end
