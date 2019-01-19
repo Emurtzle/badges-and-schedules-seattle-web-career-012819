@@ -9,4 +9,5 @@ def batch_badge_creator (array)
   array.each do |name|
     new_array.push(bade_maker(name))
   end
+  new_array
 end
